@@ -1,0 +1,64 @@
+:root {
+    background-color: #3a3939;
+    font-family: 'Open Sans', sans-serif;
+}
+
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+}
+
+#main {
+    margin: auto;
+    width: 85%;
+    background-color: #181818;
+}
+
+#title {
+    background-color: #FEE715FF;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    color: #111820FF;
+}
+
+img {
+    display: block;
+    max-width: 40%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #FEE715FF;
+}
+
+#img-caption {
+    font-weight: medium;
+    text-align: center;
+    padding: 5px 0px;
+    width: 60%;
+    margin: auto;
+    color: #FEE715FF;
+    font-size: 13px;
+}
+
+#tribute-info {
+    margin: 10px auto;
+    width: 80%;
+    background-color: #FEE715FF;
+    padding: 10px 20px 0px 20px;
+    color: black;
+}
+
+#footer {
+    background-color: #FEE715FF;
+}
+
+#footer p {
+    font-size: 13px;
+    font-weight: bold;
+    padding: 10px 0px;
+    text-align: center;
+    color: black;
+}
